@@ -1,5 +1,5 @@
 # Photopea Electron Wrapper
-Run the best PS alternative in a local Electron window - in case its built-in "install Photopea" menu option isn't available on your OS!
+Run PS alternative in a local Electron window without memory size limits (64 Go actually) - for heavy printing projects purposes
 
 ## Running
 Run `npm install` and then `npm start` inside the repo folder!
